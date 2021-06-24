@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/BarbosOleg/test-bot/issues"
   },
-  "homepage": "https://github.com/BarbosOleg/test-bot#readme"
+  "homepage": "https://github.com/BarbosOleg/test-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.29.0"
+  }
 }
